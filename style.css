@@ -10,8 +10,8 @@ body{
   flex-direction:column;
   justify-content:center;
   align-items:center;
-  background: rgb(238,174,202);
-background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  background: rgb(158,158,158);
+background: linear-gradient(90deg, rgba(158,158,158,1) 0%, rgba(33,33,33,1) 25%, rgba(33,33,33,1) 75%, rgba(158,158,158,1) 100%);
 }
 
 .icon{
