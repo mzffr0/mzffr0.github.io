@@ -10,8 +10,9 @@ body{
   flex-direction:column;
   justify-content:center;
   align-items:center;
-  background: rgb(66,66,66);
-  background: linear-gradient(260deg, rgba(66,66,66,1) 0%, rgba(158,158,158,1) 69%, rgba(245,245,245,1) 100%);
+  background-color: #74EBD5;
+  background-image: linear-gradient(90deg, #74EBD5 19%, #9FACE6 100%);
+
 }
 .icon{
   margin-top:2vh;
