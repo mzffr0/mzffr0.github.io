@@ -28,3 +28,14 @@ backdrop-filter: blur(12.6px);
 -webkit-backdrop-filter: blur(12.6px);
 color:white;
 }
+
+.card-color{
+color:white;
+}
+
+.low{
+  position: absolute;
+  right: 520px;
+  width: 300px;
+  padding: 10px;
+}
